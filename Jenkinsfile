@@ -14,3 +14,4 @@ node {
        sh 'cd complete && ./gradlew run'
      }
   }
+}
